@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+__MACOSX/
+._*
+
+# Xcode / Swift user data
+*.xcuserstate
+*.xctimeline
+xcuserdata/
+DerivedData/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Xcode archives and temporary files
+*.moved-aside
+*.xcuserdatad/
